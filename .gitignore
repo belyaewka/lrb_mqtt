@@ -1,0 +1,9 @@
+/bot.log
+/config.py
+/data
+/fridge.log
+/lrb_fridge.db
+/test_subscriber.py
+/venv/
+.idea
+__pycache__/
